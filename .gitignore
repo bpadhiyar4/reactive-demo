@@ -1,0 +1,5 @@
+target/*
+target/classes/*
+.idea/*
+demo.iml
+demo/target*
