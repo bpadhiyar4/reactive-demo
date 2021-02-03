@@ -1,4 +1,4 @@
-#### Learning project for the Reactive Spring ####
+# Learning project for the Reactive Spring ####
 
 - [Movie api](http://www.tvmaze.com/api) added which uses the WebClient.
 
